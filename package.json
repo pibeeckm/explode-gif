@@ -1,12 +1,13 @@
 {
   "name": "explode-gif",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Explode gif into png frames",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "url": "https://github.com/pibeeckm/explode-gif.git",
+  "repository": "pibeeckm/explode-gif",
   "author": "fgmnts",
   "license": "ISC",
   "dependencies": {
