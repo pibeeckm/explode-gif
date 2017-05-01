@@ -1,6 +1,6 @@
 {
   "name": "explode-gif",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Explode gif into png frames",
   "main": "index.js",
   "scripts": {

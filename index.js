@@ -23,10 +23,6 @@ module.exports = function(src, dest, cb) {
       cb(err);
       return;
     }
-    //console.log("tempLocation ", tempLocation);
-
-    // use gifsicle to create frames
-    // set working folder to tempfolder
 
 
     //console.log("gifsicle path", gifsicle);
@@ -122,14 +118,3 @@ function copyFile(source, target, cb) {
     }
   }
 }
-/*
-
-run('demo.gif', 'output', function(err, files) {
-  if (err) {
-    console.log("err", err);
-  } else {
-    console.log(files);
-
-  }
-})
-*/
