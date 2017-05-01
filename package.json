@@ -1,0 +1,18 @@
+{
+  "name": "explode-gif",
+  "version": "0.0.1",
+  "description": "Explode gif into png frames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fgmnts",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.0",
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "gifsicle": "^3.0.4",
+    "images": "^3.0.0"
+  }
+}
